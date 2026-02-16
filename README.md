@@ -1,55 +1,33 @@
-# Stock-Market-Analysis-Project
-Stock Market Analysis 
-📊 Stock Market Analysis Project
-📌 Project Summary
+📊 Stock Market Analysis & Prediction
 
-This project focuses on exploratory data analysis (EDA) of stock market data to uncover meaningful patterns, correlations, and insights that support investment decision-making.
-Using a combination of statistical analysis, visualization techniques, and trend analysis, the project evaluates stock performance, volatility, valuation, and market behavior.
+This project focuses on exploratory data analysis, visualization, and predictive insights using real-time financial data from the Investors Exchange. The objective was to analyze stock market trends and generate investment signals to support buy, sell, or hold decisions.
 
-The primary goal is to help investors and analysts make informed decisions regarding stock purchases, sales, and long-term holdings.
+🛠 Tools & Technologies
 
-🎯 Objectives of Stock Market Analysis
+MySQL – Queried and extracted structured financial data from complex databases
 
-The analysis aims to answer the following key business questions:
+Tableau – Performed large-scale analysis and built interactive visualizations
 
-📈 Average Daily Trading Volume
-Identify stocks with high liquidity and consistent trading activity.
+Power BI – Developed dynamic dashboards to communicate actionable insights
 
-⚡ Most Volatile Stock
-Determine stocks with the highest price fluctuations, indicating higher risk and potential returns.
+Excel – Conducted statistical analysis, organized datasets, and generated reports
 
-💰 Stocks with Highest & Lowest Dividend
-Analyze dividend-paying stocks for income-focused investment strategies.
+🎯 Project Goals
 
-📊 Highest & Lowest P/E Ratio
-Compare stock valuation to identify potentially overvalued or undervalued stocks.
+The analysis aimed to identify meaningful patterns and investment indicators, including:
 
-🏢 Stock with Highest Market Capitalization
-Identify market leaders and large-cap stocks.
+Average daily trading volume
 
-📉 Stocks Near 52-Week High & 52-Week Low
-Detect breakout opportunities and undervalued stocks.
+Most volatile stocks
 
-🛠 Tools & Technologies Used
+Stocks with highest market capitalization
 
-Excel – Data cleaning, preliminary analysis, and calculations
+Dividend-based stock comparisons
 
-Power BI – Interactive dashboards and KPI analysis
+Highest and lowest P/E ratios
 
-Tableau – Advanced visualizations and trend analysis
+52-week high and low performance trends
 
-MySQL – Data extraction, filtering, and aggregation
+💡 Outcome
 
-📌 Key Outcomes
-
-Identified high-volume and high-volatility stocks
-
-Highlighted valuation metrics using P/E ratios
-
-Provided insights into dividend trends and market capitalization
-
-Enabled data-driven investment decisions using visual dashboards
-
-🚀 Conclusion
-
-This project demonstrates how data analytics and visualization tools can be effectively used to analyze stock market performance. The insights generated help investors better understand market trends, risks, and opportunities, enabling smarter and more confident investment decisions.
+The project demonstrates how data analytics and visualization tools can transform raw financial data into decision-support insights for investors and analysts. It highlights skills in SQL querying, dashboard design, financial analysis, and trend interpretation.
